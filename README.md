@@ -19,5 +19,5 @@ https://agrimetsoft.com/
 
 https://agrimetsoft.com/modis_products_extractor
 
-<a href="https://www.dropbox.com/scl/fi/93tbiw3saatcsqrwyruec/MODIS-Product-Extractor-Installer.msi?rlkey=znswaid14cdrg0qslpo0ui2vj&st=8fb9r4g5&dl=0">Link</a>
+<a href="https://www.dropbox.com/scl/fi/93tbiw3saatcsqrwyruec/MODIS-Product-Extractor-Installer.msi?rlkey=znswaid14cdrg0qslpo0ui2vj&st=8fb9r4g5&dl=0">Download Link</a>
 
